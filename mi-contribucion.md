@@ -1,0 +1,1 @@
+Los pasos anteriores de la entrega, los he resuelto clonando primero el repositorio de mi Fork, y luego creando una branch con git branch. A continuación ya he creado este archivo con mi contribución.
